@@ -1,4 +1,4 @@
-> **⚠️ Archived 2025-08-16. No longer maintained.**
+> **⚠️ Archived 2025-08-21. No longer maintained.**
 
 # Tanzu Mission Control API Postman Collection
 This is a [Postman collection](https://www.postman.com/) for the Tanzu Mission Control API.
